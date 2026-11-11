@@ -2,6 +2,7 @@
 
 [![Theme Version](https://img.shields.io/badge/version-1.0.0-crimson.svg)](https://github.com/rahulwork247/obsidian-phantom-blade-crimson)
 [![Obsidian Community](https://img.shields.io/badge/Obsidian-Community_Theme-e11d48.svg)](https://obsidian.md)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://buymeacoffee.com/rahulwork247)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray.svg)](LICENSE)
 
 A premium dark Obsidian theme infused with blade-sharp crimson red accents, inspired by martial-arts action aesthetic and cyberpunk shadow styling.
@@ -51,4 +52,4 @@ A premium dark Obsidian theme infused with blade-sharp crimson red accents, insp
 
 If you enjoy the Phantom Blade aesthetic in your daily note-taking:
 - Star the repository on GitHub: [rahulwork247/obsidian-phantom-blade-crimson](https://github.com/rahulwork247)
-- Sponsor via GitHub Sponsors or Buy Me a Coffee.
+- Support creator via [Buy Me a Coffee (rahulwork247)](https://buymeacoffee.com/rahulwork247)
